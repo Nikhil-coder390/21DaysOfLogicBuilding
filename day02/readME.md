@@ -7,7 +7,7 @@ In this challenge, you'll use an IF-ELSE statement to check if a person meets th
 
 ### Tasks:
 
-* <a href="./src/drivingEligibility">Driving Eligibility</a>
+* <a href="./src/drivingEligibility.java">Driving Eligibility</a>
 
 Task: Write a program to check if a person can apply for a driving license based on age.
 
@@ -25,7 +25,7 @@ Input: age = 14, min_driving_age = 16
 
 Output: "Not eligible for driving license"
 
-* <a href="./src/seniorCitizenDiscount">Senior Citizen Discount</a>
+* <a href="./src/seniorCitizenDiscount.java">Senior Citizen Discount</a>
 
 Task: Write a program to check if a person is eligible for a senior citizen discount based on age.
 
