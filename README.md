@@ -4,3 +4,4 @@
 3) <a href="./day03/readME.md">Day - 03</a>
 4) <a href="./day04/readME.md">Day - 04</a>
 5) <a href="./day05/readME.md">Day - 05</a>
+5) <a href="./day06/readME.md">Day - 06</a>
